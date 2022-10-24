@@ -1,0 +1,24 @@
+{
+  "name": "blog_eleventy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Softcorp-Industries/blog_eleventy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Softcorp-Industries/blog_eleventy/issues"
+  },
+  "homepage": "https://github.com/Softcorp-Industries/blog_eleventy#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
